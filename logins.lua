@@ -11,4 +11,3 @@ function Pessoa:status()
     print("sua cor e: "..self.cor)
 end
 p1 = Pessoa:new("marcos","branca")
-Pessoa:status()
